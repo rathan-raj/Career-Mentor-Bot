@@ -1,7 +1,4 @@
-
 streamlit
+requests
+PyPDF2 
 langchain
-PyPDF2
-ollama
-langchain-community
-
